@@ -73,6 +73,9 @@ I am a **Software Engineer** passionate about building **scalable, efficient, an
   <a href="https://himabindutellakula.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
+  <a href="https://www.salesforce.com/trailblazer/himabindutellakula" target="_blank">
+    <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer">
+  </a>
 </p>
 
 ---
