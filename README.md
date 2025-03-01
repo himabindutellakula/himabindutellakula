@@ -7,9 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Software Engineer** passionate about building **scalable, efficient, and impactful solutions**. With expertise in **backend development, full-stack technologies, databases and Salesforce development**, I enjoy solving complex problems and optimizing systems for performance and reliability.  
-
-I thrive in **collaborative environments**, continuously learning and applying new technologies to create high-quality software that makes a real-world impact.  
+I am a **Software Engineer** passionate about building **scalable, efficient, and impactful solutions**. With expertise in **backend development, full-stack technologies, databases and Salesforce development**, I enjoy solving complex problems and optimizing systems for performance and reliability. I thrive in **collaborative environments**, continuously learning and applying new technologies to create high-quality software that makes a real-world impact.  
 
 🎓 **Master's in Computer Science** @ Northeastern University (**GPA: 4.00**)  
 
@@ -82,18 +80,18 @@ I thrive in **collaborative environments**, continuously learning and applying n
 ## 📌 Featured Projects
 
 ### 📍 **SpendSmart – Android Mobile App**  
-**Tech:** Kotlin | Firebase | Google Maps API | RecyclerView  
-📥 [Download APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/raw/main/SpendSmart.apk)  
+**Tech Stack:** Java | Firebase | Google Maps API | RecyclerView  
+📥 [Download APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/raw/main/SpendSmart.apk)
 🚀 A personal finance management app that tracks expenses, generates reports, and provides location-based reminders.  
 
 ### 📍 **Kanbas – Learning Management System**  
-**Tech:** React | Node.js | Express | MongoDB  
-🔗 [GitHub Repo](https://github.com/himabindutellakula/Kanbas-LMS)  
+**Tech Stack:** React | Node.js | Express | MongoDB  
+🔗 [GitHub Repo](https://github.com/himabindutellakula/kanbas-web-application)
 🚀 An online learning management system that allows instructors to manage courses, assignments, and grades seamlessly.  
 
-### 📍 **Image Manipulation & Enhancement**  
-**Tech:** Java | MVC Pattern | Image Processing  
-🔗 [GitHub Repo](https://github.com/himabindutellakula/Image-Processing-Enhancement)  
+### 📍 **Image Manipulation & Enhancement Application**  
+**Tech Stack:** Java | MVC Pattern | Image Processing  
+🔗 [GitHub Repo](https://github.com/himabindutellakula/Image-Manipulation-And-Enhancement-Application)
 🚀 A Java-based desktop app that offers flipping, brightness adjustment, undo/redo, and batch processing for images.  
 
 ---
@@ -109,5 +107,3 @@ I thrive in **collaborative environments**, continuously learning and applying n
 
 ⭐ **If you like my work, consider giving a ⭐ to my repositories!**  
 🚀 *Let’s build something amazing together!*
-
-
