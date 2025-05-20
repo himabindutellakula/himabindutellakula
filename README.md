@@ -83,7 +83,7 @@ I am a **Software Engineer** passionate about building **scalable, efficient, an
 ## 📌 Featured Projects
 
 ### 📍 **Stack Overflow Clone**  
-**Tech Stack:** TypeScript | React | Node.js | Express | MongoDB | Jest | Cypress | Cucumber 
+**Tech Stack:** TypeScript | React | Node.js | Express | MongoDB | Jest | Cypress | Cucumber  
 🔗 [GitHub Repo](https://github.com/CSE-316-Software-Development/final-project-hima-brijesh)
 🚀 A full-stack Q&A platform built with the MERN stack, replicating Stack Overflow’s core features with scalable architecture and end-to-end testing.
 
