@@ -82,6 +82,11 @@ I am a **Software Engineer** passionate about building **scalable, efficient, an
 
 ## 📌 Featured Projects
 
+### 📍 **Stack Overflow Clone**  
+**Tech Stack:** TypeScript | React | Node.js | Express | MongoDB | Jest | Cypress | Cucumber
+🔗 [GitHub Repo](https://github.com/CSE-316-Software-Development/final-project-hima-brijesh)
+🚀 A full-stack Q&A platform built with the MERN stack, replicating Stack Overflow’s core features with scalable architecture and end-to-end testing.
+
 ### 📍 **SpendSmart – Android Mobile App**  
 **Tech Stack:** Java | Firebase | Google Maps API | RecyclerView  
 📥 [Download APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/raw/main/SpendSmart.apk)
